@@ -19,6 +19,12 @@ Os requisitos para o funcionamento eram:
 - O resultado deve ser exibido na tela.
 - Extra: Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
+Além do bom funcionamento do código, tive em mente ao começar o projeto, a meta de deixá-lo com a minha cara. Para isso dediquei um pouco mais de tempo para que a interface fosse única e mostrasse a minha personalidade. Para alcançar esse objetivo, escolhi cores, fontes e layout que mostrassem personalidade. O resultado foi uma página que remete à telas de dispositivos antigos, dando um tom leve para a página.
+
+Foi do meu desejo aplicar algumas coisas a mais que aprendi ao aprofundar em HTML, CSS e JavaScript. O uso de icons, a cor do sublinhado e a função de copiar o texto são alguns exemplos disso.
+
+No final, o resultado foi satisfatório!
+
 Foi utilizado nesse projeto: HTML, CSS e JavaScript.
 
 O Decodificador de texto foi desenvolvido em conjuto com Alura para o programa Oracle One.
