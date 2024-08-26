@@ -29,7 +29,7 @@ Foi utilizado nesse projeto: HTML, CSS e JavaScript.
 
 O Decodificador de texto foi desenvolvido em conjuto com Alura para o programa Oracle One.
 
-
+![Decodificador de texto](https://github.com/user-attachments/assets/1b221c7c-856d-4577-b4c4-3b0370035d91)
 
 
 
