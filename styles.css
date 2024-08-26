@@ -1,0 +1,144 @@
+* {
+    background-color: #f3f3f4;
+    font-family: "Silkscreen", sans-serif;
+}
+
+::selection {
+  color: #ebf8f1;
+  background: #2cba6c;
+}
+
+
+.logo {
+    margin-left: 60px;
+    padding-top: 20px;
+    width: 6%;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: -2%;
+    margin-top: -60px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    display: flex;
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+main {
+    padding: 10px;
+}
+
+.text-box-area {
+    display: flex;
+    justify-content: center;
+    padding: 10px; 
+    margin: 40px; 
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.box1, .box2 {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
+.text-alert{
+    margin-left: 32px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+textarea {
+    font-size: 18px;
+    border-color: black;
+    border-width: 4px;
+    border-radius: 4px;
+    outline: none;
+    padding: 10px;
+    width: 100%;
+}
+
+textarea:focus {
+    border-color: orangered;
+    box-shadow: black;
+}
+
+
+.button-section {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-crypt, .btn-decrypt {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-width: 4px;
+    border-radius: 2px;
+    border-color: #303030;
+    border-style: solid;
+    background-color: none;
+    cursor: pointer;
+}
+
+.btn-crypt:hover, .btn-decrypt:hover {
+    background-color: orangered;
+    color: snow;
+    border-color: orangered;
+}
+
+.btn-copy {
+    position: absolute;
+    right: 110px;
+    top: 23.5%;
+    font-size: 28px;
+    color:#303030;
+    background-color: none;
+    border: 2px;
+    cursor: pointer;
+}
+
+.btn-copy:hover {
+    color: orangered;
+}
+
+footer {
+    align-items: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+.github, .linkedin {
+    display: flex;
+    justify-content: center;
+    color: #303030;
+    text-decoration: none;
+    font-size: 48px;
+    width: 70px;
+    border: none;
+}
+
+.github:hover, .linkedin:hover {
+    cursor: pointer;
+    color: orangered;
+}
