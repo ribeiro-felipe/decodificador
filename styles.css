@@ -43,7 +43,7 @@ main {
     justify-content: center;
     padding: 10px; 
     margin: 40px; 
-    margin-top: 0px;
+    margin-top: -30px;
     margin-bottom: 0px;
 }
 
@@ -105,7 +105,7 @@ textarea:focus {
 .btn-copy {
     position: absolute;
     right: 110px;
-    top: 23.5%;
+    top: 20.5%;
     font-size: 28px;
     color:#303030;
     background-color: none;
